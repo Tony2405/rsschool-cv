@@ -1,5 +1,5 @@
 # ANTON SILKOU 
-![Photo Anton](./forto2.jpg)
+![Photo Anton](./foto2.jpg)
 
 ### Contacts:
 Discord nickname: Anton_Silkou(@Tony2405)<br/>
@@ -48,8 +48,8 @@ KAZINZHINIRING, SKYWAY, ALEVKURP***
 - Belarusian State Economic University, 2015 
 
 ### Courses ###   										
-*IT-Academy – (2020-2021)*
-	Personal achievements:
+**IT-Academy – (2020-2021)**<br/>
+	*Personal achievements:*
 -	Learnt how to create a web-site using HTML5, CSS, basics of JS, JQuery, Bootsrap.
 -	Took the course of Web-application development with JavaScript.
 
