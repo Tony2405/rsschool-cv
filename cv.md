@@ -44,7 +44,6 @@ KAZINZHINIRING, SKYWAY, ALEVKURP***
 ### Education ###
 
 - Minsk State Linguistic University. 2008
-
 - Belarusian State Economic University, 2015 
 
 ### Courses ###   										
