@@ -6,6 +6,10 @@ html {
     padding: 0;
     box-sizing: border-box;
     }
+    a{
+        text-decoration: none;
+        color: #000000;
+    }
 body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
@@ -38,7 +42,11 @@ body{
 .center{
     text-align: center;
     }
-
+.header{
+    padding: 20px 0;
+    background-color: rgb(230, 193, 93);
+    margin-bottom: 20px;
+        }
 .wrapper{
     flex-wrap: wrap;
 }
@@ -57,16 +65,26 @@ body{
     color: ivory;
     }
 
-.header{
-    padding: 20px 0;
-    background-color: rgb(230, 193, 93);
-    margin-bottom: 20px;
-    }
+
 
 .footer{
     background-color: rgb(230, 193, 93);
     padding: 20px 0;
 }
-.logo{
-    width: 50px;
+.GH-logo{
+   /* visibility: hidden; */
+    width: 35px;
+    height: 35px;
+}
+.GH-logo:hover{
+    opacity: 0.7;
+    /* transition: 0.3s; */
+}
+
+.RSS-logo{
+    width: 60px;
+}
+.RSS-logo:hover{
+    opacity: 0.8;
+    transition: 0.3s;
 }
