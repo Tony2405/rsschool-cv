@@ -1,5 +1,5 @@
 # ANTON SILKOU 
-![Photo Anton](./foto2.jpg)
+![Photo Anton](./foto.jpg)
 
 ### Contacts:
 Discord nickname: Anton_Silkou(@Tony2405)<br/>
